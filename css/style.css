@@ -1,0 +1,197 @@
+﻿.bg-img
+{
+	background-image:url('../images/Family/g1.jpg');
+	background-repeat:repeat;
+	width:1400px;
+	height:450px;
+}
+.user-padding-top
+{
+	padding-top:25px;
+	color:white;
+}
+nav ul li
+{
+	list-style-type:none;
+	display:inline;
+	color:white;
+
+}
+nav ul li a
+{
+	text-decoration:none;
+	color:white;
+	padding-right:15px;
+	padding-top:10px;
+}
+nav ul
+{
+	padding-top:20px;
+
+}
+.externalcss
+{
+
+	color:white;
+	padding-top:25px;
+	background-color:black;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.boldfont
+{
+	font-family: 'Oswald', sans-serif;
+	font-weight:700;
+	color:white;
+	text-shadow: 1px 1px 5px rgba(0,0,0);
+}
+span
+{
+	color:red;
+}
+h1
+{
+	text-align:center;
+	font-family: 'Playfair Display', serif;
+	font-size:40px;
+}
+h2{
+	background-color:black;
+
+}
+h2{
+	text-align:left;
+	font-family:"Britannic Bold";
+	color:#FFFF99;
+	
+	}
+main
+{
+	padding:20px;
+}
+header h1
+{
+	font-size:25px;
+	padding-top:15px;
+}
+div ul li
+{
+	list-style-type:none;
+	display:inline;
+	
+}
+.logo a{
+	color:white;
+	text-decoration:none;
+}
+
+.hoverdemo:hover
+{
+	background-color:#0099CC;
+	color:black;
+	transition:all 1s;
+}
+.image:hover
+{
+	transition:all 3s;
+	box-shadow: 8px 8px 5px 15px #00CC00;
+	background-color:#00CC00;
+
+}
+.cl
+{
+	background-color:C4D7B2;
+}
+.rk
+{
+	color:white;
+}
+
+
+
+.forhr
+{
+	color:black;
+	height:12px
+}
+.tr
+{
+	text-align:left;
+}
+patra
+{
+list-style-type:none;
+	display:inline;
+	color:white;
+}
+
+footer ul li a 
+{
+	color:white;
+	
+}
+.fr
+{
+	text-align:center;
+}
+
+.hoverdemo1:hover
+{
+	background-color:black;
+	color:white;
+	transition:all 1s;
+}
+.suchi
+{
+font-family:"Britannic Bold";
+	color:#FFFF99;
+
+}
+
+.hoverdemo2
+{
+	background-color:black;
+	color:white;
+}
+.ht
+{
+
+	color:black;
+	background-color:white;
+}
+.cw
+{
+	color:white;
+}
+
+.hoverdemo3:hover
+{
+	background-color:white;
+	color:black;
+	transition:all 2s;
+}
+.navbar1 ul li a:hover
+{
+	color:wheat;
+	transition:all 0s;
+
+}
+.navbar2 :hover
+{
+	color:wheat;
+	transition:all 0s;
+
+}
+.hc
+{
+	background-color:#999966;
+}
+.ac
+{
+	background-color:#C0C0C0;
+
+}
+.navmar {
+  margin-right:8px;
+}
