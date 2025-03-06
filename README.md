@@ -23,27 +23,27 @@ JavaScript – For adding interactivity.<br>
 Bootstrap – For responsive design and styling.<br>
 <hr>
 <b>📂 Detailed Page Breakdown</b><br>
-  1️⃣ Home Page (index.html)<br>
-  Provides an overview of the portfolio.<br>
-  Includes links to different sections.<br>
-  2️⃣ About Me (about-us.html)<br>
-  A detailed introduction about myself.<br>
-  Personal and professional background.<br>
-  3️⃣ Skills (skills.html)<br>
-  Displays technical and soft skills.<br>
-  Highlights strengths in web development.<br>
-  4️⃣ Academic Qualifications (qualification.html)<br>
-  Details about education and certifications.<br>
-  5️⃣ Internship Work (IT 2023.html)<br>
-  Information about the work done during my internship at Happy Visitors Dot Com.<br>
-  6️⃣ Friends & Family (my-friends.html, my-family.html)<br>
-  Personal sections giving insight into my social life.<br>
-  7️⃣ Guidance Section (guide.html)<br>
-  Useful tips, insights, or guidance.<br>
-  8️⃣ Contact (contact-us.html)<br>
-  A contact form allowing users to reach out.<br>
-  9️⃣ Enquiry Form (enquiry.html)<br>
-  Allows users to submit queries or feedback.<br><hr>
+        1️⃣ Home Page (index.html)<br>
+        Provides an overview of the portfolio.<br>
+        Includes links to different sections.<br>
+        2️⃣ About Me (about-us.html)<br>
+        A detailed introduction about myself.<br>
+        Personal and professional background.<br>
+        3️⃣ Skills (skills.html)<br>
+        Displays technical and soft skills.<br>
+        Highlights strengths in web development.<br>
+        4️⃣ Academic Qualifications (qualification.html)<br>
+        Details about education and certifications.<br>
+        5️⃣ Internship Work (IT 2023.html)<br>
+        Information about the work done during my internship at Happy Visitors Dot Com.<br>
+        6️⃣ Friends & Family (my-friends.html, my-family.html)<br>
+        Personal sections giving insight into my social life.<br>
+        7️⃣ Guidance Section (guide.html)<br>
+        Useful tips, insights, or guidance.<br>
+        8️⃣ Contact (contact-us.html)<br>
+        A contact form allowing users to reach out.<br>
+        9️⃣ Enquiry Form (enquiry.html)<br>
+        Allows users to submit queries or feedback.<br><hr>
 <b>🎯 Future Enhancements</b><br>
 🔸 Add a Projects Section to display my previous work.<br>
 🔸 Improve the UI with animations and better responsiveness.<br>
