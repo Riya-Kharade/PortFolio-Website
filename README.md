@@ -1,12 +1,9 @@
 # PortFolio-Website
 <b>🌐 Portfolio Website</br><br>
 This Portfolio Website showcases my skills, experience, and personal details. It was developed during my internship at Happy Visitors Dot Com, Kolhapur to demonstrate my expertise in HTML, CSS, JavaScript, and Bootstrap. The website provides a structured way to present my academic qualifications, skills, family, and friends while maintaining a clean and professional design.
-
 <br><hr><br>
-
 <b>📌 Project Overview</b>
-The Portfolio Website consists of multiple sections, including a homepage, skills, qualifications, contact page, and an inquiry form. It is built using responsive design principles to ensure accessibility on different devices.
-<br>
+The Portfolio Website consists of multiple sections, including a homepage, skills, qualifications, contact page, and an inquiry form. It is built using responsive design principles to ensure accessibility on different devices.<br>
 🔹 Purpose: To provide an organized and interactive portfolio showcasing my skills and experience.</br>
 🔹 Status: Completed<br>
 🔹 Internship Organization: Happy Visitors Dot Com, Kolhapur<br><br><br>
